@@ -1,0 +1,6 @@
+{
+  "name": "Scarab",
+  "ticker": "SCRB1",
+  "description": "Scarab: an independent Cardano node written in Scala 3 using cats effect",
+  "homepage": "https://github.com/KD5UJC-XYZ/scarab"
+}
